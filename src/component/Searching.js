@@ -30,7 +30,7 @@ const Searching = () => {
                 <input
                     type="text"
                     className="w-full p-5 rounded-lg border border-purple-500 shadow-[0px_0px_0px_3px_rgba(125,_106,_255,_0.2)]"
-                    placeholder="Search movie..."
+                    placeholder="Nhập từ khóa phim cần tìm: spider,batman...."
                     onChange={handleChange}
                 />
             </div>
